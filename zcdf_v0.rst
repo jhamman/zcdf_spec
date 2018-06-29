@@ -14,7 +14,7 @@ Status
 
 This specification is the latest version. It should be referenced against the
 underlying `Zarr storage specification version 2
-<http://zarr.readthedocs.io/en/latest/spec/v2.html>`.
+<http://zarr.readthedocs.io/en/latest/spec/v2.html>`_.
 
 Storage
 -------
